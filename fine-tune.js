@@ -1,4 +1,3 @@
-require("dot-env")
 const fs = require('fs');
 const { openai } = require("./openAi");
 
